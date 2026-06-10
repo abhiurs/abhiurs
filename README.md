@@ -1,9 +1,9 @@
 # Hi, I'm Abhinandan 👋
 
-🎓 Computer Science Student  
-🔐 Interested in Cybersecurity & Secure Development  
-💻 Skilled in Python, C++, Linux, Web Technologies  
-🛡️ Currently working on AI-Based Intrusion Detection System  
+Computer Science Student  
+Interested in Cybersecurity & Secure Development  
+Skilled in Python, C++, Linux, Web Technologies  
+Currently working on AI-Based Intrusion Detection System  
 
 ## Technologies & Tools
 - Python
